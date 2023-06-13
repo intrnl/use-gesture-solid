@@ -5,6 +5,9 @@
 	"version": "0.1.0",
 	"author": "intrnl",
 	"license": "MIT",
+	"repository": {
+		"url": "https://codeberg.org/intrnl/use-gesture-solid"
+	},
 	"packageManager": "pnpm@8.6.1",
 	"files": [
 		"dist",
